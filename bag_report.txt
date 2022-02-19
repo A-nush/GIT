@@ -2,7 +2,7 @@ Sammary: Optimize: Sliders of brightness, contrast are disabled
 Priority: Major
 Component: Kimba 
 Enviroment: Oracle VM VirtualBox 6.1 (macOS)
-		        OS Windows XP
+	    OS Windows XP
 Description:
 		1. Open the app.
 		2. Double click on the picture.
