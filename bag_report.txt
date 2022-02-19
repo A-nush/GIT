@@ -1,0 +1,12 @@
+Sammary: Optimize: Sliders of brightness, contrast are disabled
+Priority: Major
+Component: Kimba 
+Enviroment: Oracle VM VirtualBox 6.1 (macOS)
+		        OS Windows XP
+Description:
+		1. Open the app.
+		2. Double click on the picture.
+		3. Move the sliders left and right adjust the brighness, contrast.
+	
+Actual result: Sliders of brighness and contrast are disabled.
+Expected result: Sliders are adjust the brighness and contrast.
