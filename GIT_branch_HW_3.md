@@ -16,7 +16,7 @@ GIT_branch_HW_3.md
 4. Запушить структуру багрепорта на внешний репозиторий
 + **git add bag_report.txt**
 + **git commit -m bag_report.txt**
-+ **git push**
++ **git push --set-upstream origin Bag_Reports**
 5. Вмержить ветку Bag Reports в Main
 + **git checkout main**
 + **git merge Bag_Reports**
